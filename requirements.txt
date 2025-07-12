@@ -1,0 +1,6 @@
+pytesseract
+Pillow
+keyboard
+requests
+pyautogui
+plyer
